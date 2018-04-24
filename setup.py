@@ -1,8 +1,8 @@
 from distutils.core import setup
 
-setup(name='pokescrape',
+setup(name='pokesgen',
       version='1.0',
-      description='pokemon image generation with tensorfow',
+      description='pokemon image generation',
       long_description=open('README.md').read(),
       author='Chris Messier',
       license='BSD 3-Clause',

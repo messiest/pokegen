@@ -1,5 +1,5 @@
 # PokeGen
-### Pokemon generator built with TensorFlow.
+### Using GANs to generate Pokemon.
 
 
 _README.md coming soon..._
